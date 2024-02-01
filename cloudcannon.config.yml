@@ -1,0 +1,7 @@
+source: src
+collections_config:
+_inputs:
+  layout:
+    hidden: true
+  eleventyExcludeFromCollections:
+    hidden: true
